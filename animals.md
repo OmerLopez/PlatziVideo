@@ -1,0 +1,4 @@
+🐶 Perro
+🐺 Gato
+🐹 Raton
+🐴 Caballo
